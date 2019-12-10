@@ -1,4 +1,4 @@
-# Katana
+# BerAnt
 Sistema de Tienda en Linea
 
 ### Características
@@ -20,5 +20,3 @@ Sistema de Tienda en Linea
 
 ### Actualizaciones
 - 2019/Apr/15: Actualizacion del front a Bootstrap 4.
-
-Link: http://evilnapsis.com/2015/10/16/katana-lite-sistema-de-tienda-en-linea/
